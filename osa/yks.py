@@ -1,3 +1,3 @@
+import numpy as np
 y = 10
-
-print("y")
+print(np.exp(y))
